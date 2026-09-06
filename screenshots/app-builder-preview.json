@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "For My Coolest Baby",
+      "hasCanvas": false,
+      "bodyTextLen": 9532,
+      "bodyTextHash": "89c34e0d53046adad4f1c166c45b6d59c5e3ddf996465de3c8c930699ab6651a",
+      "bodyTextPrefix": "FOR MY COOLEST BABY August 26 Happy 18th, baby. Three years in, ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "For My Coolest Baby",
+      "hasCanvas": false,
+      "bodyTextLen": 9532,
+      "bodyTextHash": "89c34e0d53046adad4f1c166c45b6d59c5e3ddf996465de3c8c930699ab6651a",
+      "bodyTextPrefix": "FOR MY COOLEST BABY August 26 Happy 18th, baby. Three years in, ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
